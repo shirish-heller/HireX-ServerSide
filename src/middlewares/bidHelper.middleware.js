@@ -1,0 +1,1 @@
+const bidModel = require('../models/bidModel').bidModel
